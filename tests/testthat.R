@@ -1,0 +1,2 @@
+library(didacticRutabaga)
+library(testthat)
